@@ -1,0 +1,31 @@
+.hero {
+  background-image: url("img/alimentos-massa-muscular-scaled.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 60vh; /* pode ajustar pra 70vh, 80vh */
+}
+.navbar {
+  padding: 20px 0; /* aumenta altura */
+}
+.logo {
+  height: 60px;
+}
+
+.bannerh1{
+    font-size: 60px;
+    margin-top: 15%;
+    margin-bottom: 15%;
+    text-align: center;
+}
+.bannerbotao{
+    font-size: 60px;
+   
+  
+    text-align: center;
+}
+.fundo{
+    background-color: #67AF3A;
+   
+}
