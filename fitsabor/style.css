@@ -1,13 +1,13 @@
 .hero {
-  background-image: url("img/alimentos-massa-muscular-scaled.jpeg");
+  background-image: url("img/inicial\ banner.jpeg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   width: 100%;
-  height: 60vh; /* pode ajustar pra 70vh, 80vh */
+  height: 90vh; /* pode ajustar pra 70vh, 80vh */
 }
 .navbar {
-  padding: 20px 0; /* aumenta altura */
+  padding: 20px 0;
 }
 .logo {
   height: 60px;
@@ -28,4 +28,25 @@
 .fundo{
     background-color: #67AF3A;
    
+}
+.destaques{
+  background-color: white;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 8%;
+  padding-bottom: 15%;
+}
+.receitasemdestaque{
+  text-align: center;
+  padding-bottom: 5%;
+
+}
+.card-title{
+  text-align: center;
+}
+.sobrenos{
+  background-color: #155831;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 8%;
 }
